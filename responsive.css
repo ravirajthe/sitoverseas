@@ -1,0 +1,6 @@
+@media (min-width: 320px) and (max-width: 480px) {
+
+.ceo-img img{
+	max-width: 300px;
+}
+}
